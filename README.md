@@ -67,3 +67,25 @@ Ukranian - Native
 </td></tr></table>  
 
 <br/> 
+
+## Connect with me  
+<div align="center">
+<a href="https://instagram.com/https://www.instagram.com/tan_tan316/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/tetiana-holoporova" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a> 
+<a href="mailto:tanuska.sweet@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" /></a>
+<a href="https://t.me/tan_tan316" target="_blank"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="margin-bottom: 5px;" /></a>
+<a href="https://djinni.co/q/Tetiana Holoporova" target="_blank"><img src="https://img.shields.io/badge/Djinni-1ABC9C?style=for-the-badge&logo=djinni&logoColor=white" alt="Djinni" style="margin-bottom: 5px;" /></a>
+<a href="https://jobs.dou.ua/members/Tetiana Holoporova/" target="_blank"><img src="https://img.shields.io/badge/DOU-ff6600?style=for-the-badge&logo=dou&logoColor=white" alt="DOU" style="margin-bottom: 5px;" /></a>
+</div>  
+  
+
+<br/>  
+
+## Recent Blog Posts  
+<!-- BLOG-POST-LIST:START -->  
+If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:END -->  
