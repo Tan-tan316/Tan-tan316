@@ -9,7 +9,7 @@ I am an entry-level data analyst with hands-on experience in PostgreSQL and Pyth
 * 🌍  I'm based in Dnipro, Ukraine
 * 🖥️  See my portfolio at [Portfolio](http://github.com/Tan-tan316/Portfolio?tab=readme-ov-file)
 * ✉️  You can contact me at [tanuska.sweet@gmail.com](mailto:tanuska.sweet@gmail.com)
-* 🚀  I'm currently working on [Analysis of insurance risks of launching phone insurance in Ukraine]([http://https://github.com/Tan-tan316/Portfolio/tree/main/Energy%20Load%20Risk%20Analysis](https://github.com/Tan-tan316/Portfolio/tree/main/Stolen%20Phones))
+* 🚀  I'm currently working on [Analysis of insurance risks of launching phone insurance in Ukraine](https://github.com/Tan-tan316/Portfolio/tree/main/Stolen%20Phones)
 
 
 ### Languages
